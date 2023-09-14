@@ -1,2 +1,2 @@
 # PatchTuesday
-SysAdmin Notes for Patch Tuesday... chance of PowerShell scripts 60%
+SysAdmin Notes for Patch Tuesdays... chance of PowerShell scripts 60%
